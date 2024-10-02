@@ -16,6 +16,6 @@
 + **HotelApp:** The client class that uses the FrontDesk facade to access and utilize hotel services seamlessly.
 
 ### UML Diagram:
-<img src="https://github.com/user-attachments/assets/4405658b-9040-4d18-afda-de51b12408c6" alt="MACALANDA_Simplified Hotel Management System (Facade Pattern)" width="500">
+<img src="https://github.com/user-attachments/assets/4405658b-9040-4d18-afda-de51b12408c6" alt="MACALANDA_Simplified Hotel Management System (Facade Pattern)" width="800" align="center">
 
 
