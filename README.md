@@ -14,3 +14,7 @@
 + **FrontDesk:** The facade class that coordinates interactions between the client (HotelApp) and the individual hotel services.
 
 + **HotelApp:** The client class that uses the FrontDesk facade to access and utilize hotel services seamlessly.
+
+### UML Diagram:
+![MACALANDA_Simplified Hotel Management System (Facade Pattern)](https://github.com/user-attachments/assets/4405658b-9040-4d18-afda-de51b12408c6)
+
